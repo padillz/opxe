@@ -7,6 +7,7 @@
     "8275555794:AAHz-yiHQurrSdzTzRXlECoJkxEC7RdHEOk",
     "8290566531:AAFgxcvzyaEp7I2iKUwzAr3dTSg5Z6kINnk",
     "8226169861:AAGiAyYHbBg_YPbuQZxFggtMGfkqxjM95ls",
-    "8467775597:AAE_vqeuG0lQUo5ovDuT1scy2dcFs_gL4uA"
+    "8467775597:AAE_vqeuG0lQUo5ovDuT1scy2dcFs_gL4uA",
+    "8312382748:AAEB11fVudKAwR9Wc01jSJFqH25Nc8nUlrI"
   ]
 }
